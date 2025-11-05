@@ -1,0 +1,7 @@
+aiogram==3.4.1
+requests
+Pillow
+python-dotenv
+playwright==1.35.0
+asyncio
+aiogram==3.0.0b7
